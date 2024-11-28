@@ -1,0 +1,2 @@
+# .github
+Embed AI Everywhere
